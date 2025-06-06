@@ -1,0 +1,15 @@
+{
+  "originHash" : "60d9de4169c6785d402e208b60f8c377230f802cc850c3ed6565269cc7f1ac2a",
+  "pins" : [
+    {
+      "identity" : "hnswlib.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MegaPortal/hnswlib.swift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "27edb95ae91780790ae10f50ddffbd1adfcc42da"
+      }
+    }
+  ],
+  "version" : 3
+}
